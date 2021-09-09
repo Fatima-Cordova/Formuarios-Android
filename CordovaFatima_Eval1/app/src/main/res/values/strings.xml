@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CordovaFatima_Eval1</string>
+
+    <string name="btnSalir">salir</string>
+    <string name="edtEscribir">Escribe el texto aqui...</string>
+    <string name="btnEnviar">guardar</string>
+    <string name="txtNombre">Nombre: Fátima Liliana Córdova Torres</string>
+    <string name="txtCarnet">Carnet: 29-0779-2017</string>
+
+</resources>
